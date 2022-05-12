@@ -22,7 +22,7 @@
     "@sentry/node": "^5.15.4",
     "discord.js": "^12.4.0",
     "dotenv": "^8.2.0",
-    "graphql-tag": "^2.11.0",
+    "graphql-tag": "^2.12.6",
     "mongodb": "^3.6.2",
     "mongoose": "^5.10.9",
     "sourcecred": "^0.7.1",
